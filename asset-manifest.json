@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emsite/static/css/main.7c7f763e.css",
+    "main.js": "/emsite/static/js/main.927283d1.js",
+    "static/js/592.13b1ecbe.chunk.js": "/emsite/static/js/592.13b1ecbe.chunk.js",
+    "static/media/emLibrary.jpg": "/emsite/static/media/emLibrary.2de138d4b7cfa0ee5619.jpg",
+    "index.html": "/emsite/index.html",
+    "main.7c7f763e.css.map": "/emsite/static/css/main.7c7f763e.css.map",
+    "main.927283d1.js.map": "/emsite/static/js/main.927283d1.js.map",
+    "592.13b1ecbe.chunk.js.map": "/emsite/static/js/592.13b1ecbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c7f763e.css",
+    "static/js/main.927283d1.js"
+  ]
+}
